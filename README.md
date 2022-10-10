@@ -7,7 +7,7 @@ see:
 https://github.com/MichaelMutuku/IS_Project_II/blob/main/word_frequency_functions.py
 
 Attached below a screenshot of the product database.
-
+![Image of product database](https://github.com/MichaelMutuku/IS_Project_II/blob/main/Screenshot_of_products_table.png)
 
 Phase 2.
 Commence after approval of phase one.
